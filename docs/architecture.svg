@@ -1,0 +1,154 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 700" width="1040" height="700" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" role="img" aria-label="ask-my-books architecture: clients, fence, FastAPI and MCP surfaces, the ask_my_books core, SQLite vector store, external models, offline ingest, evals and CI" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTphZmY1OTdhZC1kNWRlLTQyOTMtOWRkNC01YjM3MDM3NTcxNDgAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaKzmwaLoYg4P0dR4FsTeqcIAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo4ZjIwNDE0Mi1mMzY1LTQ5OWQtYjYwYS1kNGIwNTEzOWFkMjhscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNobSFHlh3WUdKuOC9M8s3NzQAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg36QCXAq1x6OEJdZxQjGg8SJPO5VeFhqXl7AFEbH+9KqkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaEZr0bEs+WUmr/PPWdGrSsAAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIPTp+1fXh0jeL3Fe6Rboo6XgD660eLpvymn6kvG+apJqZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GQGmZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmFmZjU5N2FkLWQ1ZGUtNDI5My05ZGQ0LTViMzcwMzc1NzE0OC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjA2MDk3NGRjLWIwNDYtNGEwZC1hNTMwLWY5NGE0YjU2ZjJlYnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDfpAJcCrXHo4Ql1nFCMaDxIk87lV4WGpeXsAURsf70qqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgg5Fm+TRB5+PcICOrtDTBCeXSTJu912Swer74w4NVXGhiiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggetLQ2ij8qjZ5r0vj8Lxh7NyOZIepZEe3ArQutjXYqDF0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQG6w9wfSIwTHDk+xQSCb5VAwi5kWsM1GCGo6KNl/YcaXmMv+kLvklfwJ9MK8pQbaCor0HfTzNqHtH+VvSwrDXF4=</c2pa:manifest></metadata>
+  <defs>
+    <marker id="head" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L10,5 L0,10 z" fill="#7f8698"/>
+    </marker>
+    <style>
+      .box { fill: #ffffff; stroke: #c9cdd6; stroke-width: 1.2; }
+      .cl { stroke: #6b5bd2; } .cl-fill { fill: #ece8fb; }
+      .fe { stroke: #c0392b; } .fe-fill { fill: #fbe5e2; }
+      .sv { stroke: #2f6fdb; } .sv-fill { fill: #e3ecfb; }
+      .co { stroke: #1f8a5b; } .co-fill { fill: #e0f3ea; }
+      .st { stroke: #b8551a; } .st-fill { fill: #fbe9dc; }
+      .of { stroke: #6e7681; stroke-dasharray: 5 4; } .of-fill { fill: #eef0f3; }
+      .t { fill: #1f2430; font-size: 13.5px; font-weight: 600; }
+      .m { fill: #5b6270; font-size: 12px; }
+      .code { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+      .arrow { stroke: #7f8698; stroke-width: 1.7; fill: none; marker-end: url(#head); }
+      .dash { stroke-dasharray: 5 4; }
+      .lbl { fill: #5b6270; font-size: 11.5px; font-style: italic; }
+      .band { fill: #5b6270; font-size: 11px; letter-spacing: .08em; }
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="1040" height="700" fill="#fafaf7"/>
+
+  <text class="band" x="300" y="28">CLIENTS</text>
+  <text class="band" x="300" y="200">SURFACES</text>
+  <text class="band" x="300" y="336">CORE</text>
+  <text class="band" x="300" y="490">STORAGE &amp; MODELS</text>
+  <text class="band" x="24" y="200">OFFLINE</text>
+
+  <!-- Clients -->
+  <rect class="box cl cl-fill" x="300" y="38" width="200" height="66" rx="10"/>
+  <text class="t" x="314" y="62">Browser UI</text>
+  <text class="m" x="314" y="80">React + Vite · streamed answer</text>
+  <text class="m" x="314" y="96">+ cited passages</text>
+
+  <rect class="box cl cl-fill" x="520" y="38" width="190" height="66" rx="10"/>
+  <text class="t" x="534" y="62">Any HTTP client</text>
+  <text class="m" x="534" y="80">curl, scripts,</text>
+  <text class="m" x="534" y="96">the eval runner</text>
+
+  <rect class="box cl cl-fill" x="760" y="38" width="256" height="66" rx="10"/>
+  <text class="t" x="774" y="62">MCP host</text>
+  <text class="m" x="774" y="80">Claude Desktop or any client</text>
+  <text class="m" x="774" y="96">that speaks MCP over stdio</text>
+
+  <!-- Fence -->
+  <rect class="box fe fe-fill" x="300" y="136" width="410" height="42" rx="10"/>
+  <text class="t" x="314" y="154">Fence</text>
+  <text class="m" x="360" y="154">passcode → JWT · per-IP rate limit · max question length</text>
+  <text class="m" x="360" y="170">daily spend cap turns /ask off · /search stays free (no LLM call)</text>
+
+  <!-- Surfaces -->
+  <rect class="box sv sv-fill" x="300" y="210" width="410" height="104" rx="10"/>
+  <text class="t" x="314" y="232">FastAPI service — async, pydantic models</text>
+  <text class="m code" x="314" y="254">POST /auth/token   → JWT</text>
+  <text class="m code" x="314" y="272">GET  /search?q=    → top-k passages (chapter, text, score)</text>
+  <text class="m code" x="314" y="290">POST /ask          → SSE stream: answer tokens, then citations</text>
+  <text class="m" x="314" y="306">Every route is a thin adapter over the core — no logic lives here.</text>
+
+  <rect class="box sv sv-fill" x="760" y="210" width="256" height="104" rx="10"/>
+  <text class="t" x="774" y="232">MCP server — Python SDK</text>
+  <text class="m code" x="774" y="254">tools: search(q, k)</text>
+  <text class="m code" x="774" y="272">       ask(q)</text>
+  <text class="m" x="774" y="290">Same core, no HTTP in between.</text>
+  <text class="m" x="774" y="306">stdio transport; runs locally.</text>
+
+  <!-- Core -->
+  <rect class="box co co-fill" x="300" y="346" width="716" height="122" rx="10"/>
+  <text class="t code" x="314" y="368">ask_my_books</text>
+  <text class="m" x="430" y="368">— the importable package. Every surface and the CLI call into this.</text>
+
+  <rect class="box co" x="314" y="382" width="160" height="74" rx="10"/>
+  <text class="t" x="324" y="402">Retriever</text>
+  <text class="m" x="324" y="420">embed(q) → top-k</text>
+  <text class="m" x="324" y="436">from the store</text>
+
+  <rect class="box co" x="486" y="382" width="190" height="74" rx="10"/>
+  <text class="t" x="496" y="402">Answerer</text>
+  <text class="m" x="496" y="420">grounded prompt → answer</text>
+  <text class="m" x="496" y="436">+ citations; refuses if unsupported</text>
+
+  <rect class="box co" x="688" y="382" width="150" height="74" rx="10"/>
+  <text class="t" x="698" y="402">Embedder</text>
+  <text class="m" x="698" y="420">one interface;</text>
+  <text class="m" x="698" y="436">API or local ONNX</text>
+
+  <rect class="box co" x="850" y="382" width="152" height="74" rx="10"/>
+  <text class="t" x="860" y="402">Store</text>
+  <text class="m" x="860" y="420">sqlite-vec: insert,</text>
+  <text class="m" x="860" y="436">KNN query</text>
+
+  <!-- Storage & models -->
+  <rect class="box st st-fill" x="300" y="500" width="290" height="100" rx="10"/>
+  <text class="t code" x="314" y="522">index.db — SQLite + sqlite-vec</text>
+  <text class="m code" x="314" y="542">chunks(id, chapter, text, hash)</text>
+  <text class="m code" x="314" y="558">vec_chunks(id, embedding)   ← vec0</text>
+  <text class="m" x="314" y="580">Built offline; shipped inside the container image.</text>
+
+  <rect class="box st st-fill" x="620" y="500" width="180" height="100" rx="10"/>
+  <text class="t" x="634" y="522">Embeddings model</text>
+  <text class="m" x="634" y="542">hosted API, or small</text>
+  <text class="m" x="634" y="558">ONNX model in-process</text>
+  <text class="m" x="634" y="580">same model at index and query time</text>
+
+  <rect class="box st st-fill" x="830" y="500" width="186" height="100" rx="10"/>
+  <text class="t" x="844" y="522">Answering LLM</text>
+  <text class="m" x="844" y="542">hosted API, streaming</text>
+  <text class="m" x="844" y="580">only ask() calls it</text>
+
+  <!-- Offline column -->
+  <rect class="box of of-fill" x="24" y="210" width="246" height="258" rx="10"/>
+  <text class="t" x="38" y="232">Ingest CLI — runs once, offline</text>
+  <text class="m code" x="38" y="256">data/  (gitignored manuscript)</text>
+  <text class="m" x="38" y="276">↓ loader — read, normalize, split by chapter</text>
+  <text class="m" x="38" y="296">↓ chunker — size · overlap · boundaries</text>
+  <text class="m" x="38" y="316">↓ embedder — same interface as runtime</text>
+  <text class="m" x="38" y="336">↓ store — idempotent on re-run (hash)</text>
+  <text class="m" x="38" y="364">Produces index.db. Same core functions</text>
+  <text class="m" x="38" y="380">as the service; nothing duplicated.</text>
+  <text class="m" x="38" y="404">The manuscript never enters the repo.</text>
+  <text class="m" x="38" y="420">Tests run on a small fixture corpus.</text>
+
+  <rect class="box of of-fill" x="24" y="500" width="246" height="100" rx="10"/>
+  <text class="t" x="38" y="522">Evals — first-class</text>
+  <text class="m code" x="38" y="542">evals/gold.jsonl  (15 Qs + chapter)</text>
+  <text class="m" x="38" y="560">runner → search → hit-rate@k</text>
+  <text class="m" x="38" y="580">numbers committed to the README</text>
+
+  <!-- CI footer -->
+  <rect class="box of of-fill" x="24" y="624" width="992" height="52" rx="10"/>
+  <text class="t" x="38" y="646">CI — GitHub Actions on every push</text>
+  <text class="m" x="38" y="664">pytest runs the whole core on a tiny fixture corpus, then the Docker image builds. CI never needs the real book or an API key.</text>
+
+  <!-- Arrows -->
+  <path class="arrow" d="M400,104 L400,136"/>
+  <path class="arrow" d="M615,104 L615,136"/>
+  <path class="arrow" d="M505,178 L505,210"/>
+  <path class="arrow" d="M888,104 L888,210"/>
+  <text class="lbl" x="896" y="160">stdio</text>
+  <path class="arrow" d="M505,314 L505,346"/>
+  <path class="arrow" d="M888,314 L888,346"/>
+  <path class="arrow" d="M926,456 C926,480 460,470 445,500"/>
+  <text class="lbl" x="700" y="484">KNN over vec0</text>
+  <path class="arrow" d="M763,456 L720,500"/>
+  <path class="arrow" d="M640,456 C700,470 880,470 910,500"/>
+  <path class="arrow dash" d="M270,300 C290,300 290,419 314,419"/>
+  <text class="lbl" x="276" y="366">uses</text>
+  <path class="arrow" d="M147,468 C147,485 300,485 300,540"/>
+  <text class="lbl" x="196" y="486">writes</text>
+  <path class="arrow dash" d="M270,550 C285,550 285,160 300,157"/>
+  <text class="lbl" x="200" y="612">calls /search</text>
+</svg>
