@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# data and *.db ignored because the ingested material should not live in the repository
+/data/
+*.db
