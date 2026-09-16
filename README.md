@@ -1,6 +1,6 @@
 # ask-my-books
 
-Ask questions of my technical book *No More Magic* and get answers with cited passages — a hand-built Python RAG service (FastAPI, SQLite + sqlite-vec, MCP) with a first-class eval set.
+Ask questions of a technical book generated at my direction *No More Magic* and get answers with cited passages — a hand-built Python RAG service (FastAPI, SQLite + sqlite-vec, MCP) with a first-class eval set.
 
 **Status:** in progress. Started September 2026; v1 targeted for October 2026. The roadmap at the bottom shows what's done and what's next.
 
